@@ -1,5 +1,5 @@
 ## MLP & CNN
-This directory contains the implementation of neural networks on MNIST dataset. 
+This directory contains the implementation of neural networks on MNIST dataset. For more details, please refer to the report.
 
 ### MLP
 <img width="500" alt="mlp_acc" src="https://github.com/ruoheng-du/machine-learning/blob/main/neural_networks/mlp/mlp_acc.png"><img width="500" alt="mlp_loss" src="https://github.com/ruoheng-du/machine-learning/blob/main/neural_networks/mlp/mlp_loss.png">
