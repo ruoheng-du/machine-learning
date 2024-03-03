@@ -13,4 +13,4 @@ The /neural_networks directory includes the implementation of Multilayer Percept
 ### Kaggle Competition
 The /kaggle_cifar directory includes the code used in the final Kaggle Competition of the course. The competition involved using a modified CIFAR-10 model to achieve better classification results within 10 computational layers.
 
-<img width="500" alt="acc_cifar.png" src="https://github.com/ruoheng-du/machine-learning/raw/main/assets/acc_cifar.png"><img width="500" alt="loss_cifar.png" src="https://github.com/ruoheng-du/machine-learning/raw/main/assets/loss_cifar.png">
+<img width="400" alt="acc_cifar.png" src="https://github.com/ruoheng-du/machine-learning/raw/main/assets/acc_cifar.png"><img width="400" alt="loss_cifar.png" src="https://github.com/ruoheng-du/machine-learning/raw/main/assets/loss_cifar.png">
