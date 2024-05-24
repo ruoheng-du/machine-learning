@@ -1,5 +1,5 @@
 # Machine Learning | Fall 2023
-This is the repository for models done from scratch or direcly implemented in Machine Learning course at NYU Shanghai during Fall 2023. It showcases various models and projects related to machine learning. Please feel free to email me at rd2910@nyu.edu for any more information.
+This is the repository for models done from scratch or direcly implemented in Machine Learning course at NYU Shanghai during Fall 2023. It showcases various models and projects related to machine learning. Please feel free to email me at ruoheng.du@nyu.edu for any more information.
 
 ### Models from Scratch
 The /models directory contains models implemented from scratch, including KNN, K-means, Linear Regression, Logistic Regression, Lasso Regression, Gradient Boosting Decision Tree, Random Forests, and Back Propagation-based Multilayer Perceptron (MLP).
